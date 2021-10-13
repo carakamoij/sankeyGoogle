@@ -1,0 +1,21 @@
+button {
+  background-color: #368a9b;
+  border: none;
+  border-radius: 5px;
+  color: rgba(250, 249, 249, 0.856);
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+input,
+select,
+label {
+  vertical-align: middle;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+canvas {
+  margin-left: 5px;
+}
